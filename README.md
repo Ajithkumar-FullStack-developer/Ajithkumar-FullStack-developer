@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **HTML, CSS, JS**
 
-- 👨‍💻 All of my projects are available at [----](----)
+- 👨‍💻 All of my projects are available at https://app.netlify.com/teams/ajithkumar-fullstack-developer/sites
 
 - 📝 I regularly write articles on [Comimg soon](Comimg soon)
 
